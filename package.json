@@ -13,7 +13,8 @@
   "scripts": {
     "dev": "next",
     "export": "next build && next export",
-    "flow": "flow"
+    "flow": "flow",
+    "build": "next build"
   },
   "devDependencies": {
     "@babel/preset-flow": "^7.0.0",
